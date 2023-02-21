@@ -7,6 +7,6 @@
 
 - 👨‍💻 I’m excited to work on flutter development **or UI/UX.**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
