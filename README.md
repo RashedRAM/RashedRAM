@@ -2,9 +2,9 @@
 
 
 
-- 🤝 I’m looking for software engineering **internship.**
+- 🤝 I’m looking for software engineering **Internship.**
 
-- 👨‍💻 I’m excited to work on flutter development **or UI/UX.**
+- 👨‍💻 I’m excited to work on flutter development or **UI/UX.**
 
 
 <p align="left">
