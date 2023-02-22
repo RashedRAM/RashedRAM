@@ -1,10 +1,11 @@
-<h1 align="center">Heya 👋, I'm Rashed</h1>
+<h1 align="center">Hey 👋, I'm Rashed</h1>
 
 
+- 👀 I’m interested in learning *Mobile and Web Development *
+
+- 👨‍💻 I’m excited to work on Flutter development or **UI/UX.**
 
 - 🤝 I’m looking for software engineering **Internship.**
-
-- 👨‍💻 I’m excited to work on flutter development or **UI/UX.**
 
 
 <p align="left">
