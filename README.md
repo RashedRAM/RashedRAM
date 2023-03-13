@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Rashed</h1>
+<h1 align="center">Hey <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>, I'm Rashed</h1>
 
 - 💻 Software Engineering Student at #KFUPM.
 
@@ -8,7 +8,7 @@
 
 - 👨‍💻 I’m excited to work on Flutter development or **UI/UX.**
 
-- 🤝 I’m looking for Software Engineering **Internship.**
+
 
 
 <p align="left">
