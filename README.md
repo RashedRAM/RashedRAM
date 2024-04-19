@@ -2,7 +2,7 @@
 
 - 💻 Software Engineering Student at #KFUPM.
 
-- 📥 You can reach me through : rashedAlmanie@gmail.com.com
+- 📥 You can reach me through : rashedAlmanie@gmail.com
 
 - 👀 I’m interested in learning **Mobile and Web Development**
 
