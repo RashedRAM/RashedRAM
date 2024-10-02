@@ -4,7 +4,7 @@
 
 - 📥 You can reach me through : rashedAlmanie@gmail.com
 
-- 👀 I’m interested in learning **Mobile and Web Development**
+- 👀 I’m interested in  **LEARNING, IMPROVING, AND EXPLORING**
 
 
 
